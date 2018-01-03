@@ -29,8 +29,6 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 gem 'haml', '~> 5.0', '>= 5.0.4'
-gem 'devise', '~> 4.4'
-gem 'simple_form', '~> 3.5'
 gem 'fontcustom', '~> 2.0'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
